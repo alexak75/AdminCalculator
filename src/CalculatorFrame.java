@@ -300,8 +300,8 @@ public class CalculatorFrame extends JFrame {
 			yesOrNo = "No";
 		}
 		
-		textField_2.setText(df.format(totalPointsGivenTally) + " out of " + totalPotentialPoints + " points   Ñ   " + finalPercent + "%"
-				+ "   Ñ   " + yesOrNo + " for admin");
+		textField_2.setText(df.format(totalPointsGivenTally) + " out of " + totalPotentialPoints + " points   ï¿½   " + finalPercent + "%"
+				+ "   ï¿½   " + yesOrNo + " for admin");
 		
 	}	
 	
@@ -326,7 +326,7 @@ public class CalculatorFrame extends JFrame {
 	public void writeToFileJButtonActionPerformed(ActionEvent event)
 	{
 		try{
-			  // Create file 
+			  // Create file in the same location as the source file
 			  FileWriter fstream = new FileWriter("adminresults.txt");
 			  BufferedWriter out = new BufferedWriter(fstream);
 			  out.write(txtrH.getText());
