@@ -1,7 +1,0 @@
-Admin	Type	Percentage	Points Given	Point Tally
-=================================================
-Rondego	Head/CA	76%	7.6 / 10	7.6
-Phil	Head/CA	72%	7.2 / 10	14.8
-Sock	High	88%	6.16 / 7	20.96
-Pumpkin	Low	60%	3 / 5	23.96
-Pods	Head/CA	48%	4.8 / 10	28.76
