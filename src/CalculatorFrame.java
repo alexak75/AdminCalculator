@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+// Life changing comment
+// More stuff
+>>>>>>> Added a comment
 import java.awt.BorderLayout;
 import java.awt.EventQueue;
 import java.awt.event.ActionEvent;
