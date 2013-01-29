@@ -263,8 +263,6 @@ public class CalculatorFrame extends JFrame {
 		} //end score if statement
 		} //end radiobutton condition if statement
 		} //end of empty score if statement
-		
-		textField_2.setText("");
 	}
 	
 	public void calculateFinalPercent()
