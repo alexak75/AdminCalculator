@@ -178,6 +178,7 @@ public class CalculatorFrame extends JFrame {
 	
 	public void submitTaskJButtonActionPerformed(ActionEvent event)
 	{
+		// COMMENT
 		String adminName = textField.getText();
 		double score = 0;
 		double pointsGiven;
